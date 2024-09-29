@@ -443,9 +443,7 @@ button:hover {
     width: 30%; 
 }
 
-over
-
-.icon {
+icon {
     position: absolute;
     left: 15px;
     top: 50%;
@@ -585,7 +583,7 @@ a:hover {
         border-radius: 5px;
         text-align: center;
         
-         /* Optional border radius for better appearance */
+         
     }
 }
      
@@ -593,7 +591,7 @@ a:hover {
         font-size:15px;
     }
      .project{
-        padding: 15%;
+        padding: 10%;
         height:auto;
         margin-top:30px;
     }
@@ -611,7 +609,7 @@ a:hover {
        font-size:20px;
 }
     .contact{
-       padding:5%;
+       padding:10%;
        justify-content:center;
     }
 
